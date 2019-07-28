@@ -318,7 +318,7 @@ ul#nav li.current a { color: #F06000; }
 
    margin: 0;
    padding-right: 24px;
-  	background: #313131;
+  	background: #FF8000;
    display: inline-block;
   	height: 42px;
    line-height: 42px;
@@ -814,7 +814,7 @@ call-to-action .button {
 #contact h1 span { display: none; }
 #contact h1:before {
    font-family: 'FontAwesome';
-   content: "\f0e0";
+   content: "";
 	padding-right: 10px;
 	font-size: 72px;
    line-height: 72px;

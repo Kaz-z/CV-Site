@@ -2,60 +2,45 @@
   "main": {
     "name":"Kaazim Zia",
     "occupation":"Software Developer",
-    "description":"Better than your average dev",
+    "description":"Slightly better than your average dev",
     "image":"profile_pic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
+    "bio":"Aspiring full stack developer and expert stack overflower. Mainly work on web applications using technologies such as React / Java / Flask",
+    "contactmessage":"Contact me for anything dev related :)",
+    "email": "kaazimzia32@gmail.com",
     "phone": "555-555-5555",
     "address":{
       "street":"(Your Street)",
-      "city":"(Your City)",
+      "city":"City of London",
       "state":"(Your State)",
       "zip": "(Your Zip/Postal Code)"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload":"http://timbakerdev.com",
+    "website": "http://www.unitweet.co.uk",
+    "resumedownload":"",
     "social":[
       {
         "name":"facebook",
-        "url":"http://facebook.com/tim.baker.906",
+        "url":"https://www.facebook.com/kaazim.zia",
         "className":"fa fa-facebook"
       },
       {
         "name":"twitter",
-        "url":"http://twitter.com",
+        "url":"https://twitter.com/kaz_zia",
         "className":"fa fa-twitter"
       },
       {
-        "name":"google-plus",
-        "url":"http://googleplus.com/tbakerx",
-        "className":"fa fa-google-plus"
-      },
-      {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url":"https://www.linkedin.com/in/kaazim-zia-6769019a/",
         "className":"fa fa-linkedin"
       },
       {
-        "name":"instagram",
-        "url":"http://instagram.com/tbaker_x",
-        "className":"fa fa-instagram"
-      },
-      {
         "name":"github",
-        "url":"http://github.com/tbakerx",
+        "url":"https://github.com/Kaz-z/",
         "className":"fa fa-github"
-      },
-      {
-        "name":"skype",
-        "url":"http://skype.com",
-        "className":"fa fa-skype"
       }
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"A short summary of my skills",
     "education":[
       {
         "school":"University of Reading",
@@ -76,6 +61,12 @@
         "title":"Engineering Intern",
         "years":"June 2015 - August 2015",
         "description":"Worked with customers and devs by supporting digital signage products"
+      },
+      {
+        "company":"Appliansys",
+        "title":"Engineering Apprentice",
+        "years":"June 2014 - Septmember 2015",
+        "description":"Developed, supported and physically built the firm's main product CacheBox (A web caching network appliance)"
       }
     ],
     "skills":[
@@ -84,7 +75,7 @@
         "level":"60%"
       },
       {
-        "name":"Illustrator",
+        "name":"Angular 2+",
         "level":"55%"
       },
       {
@@ -93,14 +84,22 @@
       },
       {
         "name":"CSS",
-        "level":"90%"
+        "level":"60%"
       },
       {
         "name":"HTML5",
         "level":"80%"
       },
       {
-        "name":"VueJs",
+        "name":"Java",
+        "level":"60%"
+      },
+      {
+        "name":"Python",
+        "level":"60%"
+      },
+      {
+        "name":"SQL",
         "level":"50%"
       },
       {
@@ -112,34 +111,16 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"canadian-wanderlust.jpg",
-        "url":"https://www.canadianwanderlust.com"
-      },
-      {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"fury-fighting-gear.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"original-thai-food.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+        "title":"UniTweet",
+        "category":"Web application to detect trending tweets from different universities.",
+        "image":"unitweet.jpg",
+        "url":"http://www.unitweet.co.uk"
       },
       {
         "title":"Resume Website",
         "category":"A React based resume website template",
         "image":"resume-website.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"smirkspace.jpg",
-        "url":"http://www.smirkspace.com"
+        "url":"https://kaz-z.github.io/CV-Site/"
       }
     ]
   },
