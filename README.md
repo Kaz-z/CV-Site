@@ -1,3 +1,5 @@
+Check it out -> https://kaz-z.github.io/CV-Site/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
